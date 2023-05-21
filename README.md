@@ -17,8 +17,8 @@ This project aims to explore the powerful combination of React and Three.js by c
 - Realistic Rendering: Leverage the capabilities of Three.js to achieve lifelike graphics, stunning lighting effects, and smooth animations.
 - Interactive Controls: Enable user interaction with the scene, allowing viewers to control the car's movement and explore the environment.
 
-### important information 
-To run the project, you need a laptop or computer with a video card from 8gb ❗️
+## Important information❗️
+To run the project, you need a laptop or computer with a video card from 8gb.
 
 ### Contact
 The lesson I used to make this project can be found on this channel [youtube](https://www.youtube.com/watch?v=lcMCVWYpnrI) 🚙💨
